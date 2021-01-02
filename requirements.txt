@@ -1,0 +1,4 @@
+# We need the full numpy/scipy/mpl stack
+numpy
+scipy
+matplotlib
